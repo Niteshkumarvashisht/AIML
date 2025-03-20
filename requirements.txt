@@ -1,0 +1,15 @@
+requests==2.31.0  # For API examples
+pytest==7.4.3    # For testing examples
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+tensorflow>=2.8.0
+torch>=1.9.0
+scikit-learn>=0.24.0
+seaborn>=0.11.0
+pycuda>=2021.1
+cupy-cuda11x>=10.0.0
+nvidia-dali-cuda110>=1.16.0
+tritonclient>=2.19.0
+rapids-cuda11-core>=23.12
+tensorrt>=8.4.0
