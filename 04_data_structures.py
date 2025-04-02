@@ -3,7 +3,7 @@
 # 1. Lists
 print("Lists:")
 fruits = ["apple", "banana", "orange"]
-print(f"Original list: {fruits}")
+print(f"Original  list: {fruits}")
 fruits.append("grape")              # Add item
 print(f"After append: {fruits}")
 fruits.pop()                        # Remove last item
